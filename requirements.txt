@@ -1,0 +1,5 @@
+Django
+djangorestframework
+gunicorn
+psycopg2-binary
+whitenoise
