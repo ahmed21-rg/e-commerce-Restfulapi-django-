@@ -84,7 +84,7 @@ if not DB:
 else:
     DATABASES = {
         'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
+            'ENGINE': 'django.db.backends.postgres',
             'NAME': 'railway',
             'USER': 'postgres',
 
